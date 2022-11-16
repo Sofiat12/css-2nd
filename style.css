@@ -1,0 +1,16 @@
+h3 {text-align:justify;
+font-weight: 200;
+font-style: italic;
+font-size: medium;
+}
+.likes {
+font-family: 'Courier New', Courier, monospace;
+font-style: oblique;
+color:  olive
+
+}
+.Dislikes {
+font-family: 'Courier New', Courier, monospace;
+font-style: oblique;
+color:  rgb(95, 3, 33);
+}
